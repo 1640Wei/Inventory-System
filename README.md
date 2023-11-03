@@ -1,4 +1,4 @@
-Hello, I am Wei. ❄️
+Hello, I am Wei. 📌
 ======
 
 ### Project Name:  
@@ -29,7 +29,7 @@ This project offers weather alerts for major Canadian cities, specifically sendi
 ***
 ### Thanks:
 
-❄️ I hope you enjoy this project! If you have any questions or suggestions, feel free to reach out at any time. ❄️
+📌 I hope you enjoy this project! If you have any questions or suggestions, feel free to reach out at any time. 📌
 
 ✉️ HTY140226@gmail.com
 
