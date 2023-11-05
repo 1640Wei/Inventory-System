@@ -36,9 +36,9 @@ Hello, I am Wei. 📌
 
 ### Update Log:
 - Version 1.0.0 (Mar 15, 2023)
-- Version 1.0.0 (Mar 20, 2023)
-- Version 1.0.0 (Mar 31, 2023)
-- Version 1.0.0 (Apr 03, 2023)
+- Version 1.1.0 (Mar 24, 2023)
+- Version 1.2.0 (Mar 31, 2023)
+- Version 1.3.0 (Apr 03, 2023)
 
 ***
 ### Thanks:
