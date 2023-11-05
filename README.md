@@ -1,12 +1,11 @@
 Hello, I am Wei. 📌
 ======
 
-### Project Name: Appointment system
+### Project Name: Inventory System.
 
 ### Date:  Mar 15, 2023
 
 ### Description:
-This project offers weather alerts for major Canadian cities, specifically sending email notifications during snowfall. Users can customize their city, email address for alerts, and preferred alert time.
 
 ### Technologies Used:
 - **C++**: C++ programming language.  
