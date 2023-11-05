@@ -11,7 +11,22 @@ Hello, I am Wei. 📌
 - **C++**: C++ programming language.  
 
 ### Project Structure:：
+- `main.cpp`：
 - `Date.cpp`：
+- `Date.h`：
+- `Error.cpp`：
+- `Error.h`：
+- `Item.cpp`：
+- `Item.h`：
+- `NonPerishable.cpp`：
+- `NonPerishable.h`：
+- `POS.h`：
+- `Perishable.cpp`：
+- `Perishable.h`：
+- `PosIO.cpp`：
+- `PosIO.h`：
+- `Utils.cpp`：
+- `Utils.h`：
 
 ### Example:
 
